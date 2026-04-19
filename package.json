@@ -1,0 +1,20 @@
+{
+  "name": "sponsors",
+  "version": "1.0.0",
+  "packageManager": "pnpm@10.32.1",
+  "author": "jinghaihan",
+  "scripts": {
+    "deps": "taze",
+    "lint": "eslint"
+  },
+  "devDependencies": {
+    "nano-staged": "catalog:dev",
+    "pncat": "catalog:dev",
+    "simple-git-hooks": "catalog:dev",
+    "sponsorkit": "catalog:dev",
+    "taze": "catalog:dev",
+    "typescript": "catalog:dev",
+    "@octohash/eslint-config": "catalog:lint",
+    "eslint": "catalog:lint"
+  }
+}

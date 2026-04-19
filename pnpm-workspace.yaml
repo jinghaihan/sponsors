@@ -1,0 +1,15 @@
+packages: []
+catalogs:
+  dev:
+    nano-staged: ^1.0.2
+    pncat: ^0.11.1
+    simple-git-hooks: ^2.13.1
+    sponsorkit: ^17.1.0
+    taze: ^19.11.0
+    typescript: ^6.0.3
+  lint:
+    '@octohash/eslint-config': ^0.3.1
+    eslint: ^10.2.1
+onlyBuiltDependencies:
+  - sharp
+  - simple-git-hooks
